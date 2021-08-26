@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://blog.loveroming.com",
+    "contentApiKey": "de2f56aa64e3750fb05d8c2f19"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://blog.loveroming.com",
+    "contentApiKey": "de2f56aa64e3750fb05d8c2f19"
   }
 }
